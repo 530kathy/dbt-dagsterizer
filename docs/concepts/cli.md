@@ -95,6 +95,8 @@ Notes:
 - `--force` overwrites an existing output directory.
 - By default the rendered dbt project is an empty skeleton; use `--include-sample-dbt-project` to include sample models.
 
+See also: [../observability.md](../observability.md).
+
 ### `project gen-gitops-env`
 
 Generates a kustomize-style `app/` directory containing `configmap.yaml` and `secret.yaml` files under:

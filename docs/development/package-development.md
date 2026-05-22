@@ -46,6 +46,8 @@ Then follow the rendered project’s `README.md`.
 
 This section is for iterating on dbt-dagsterizer and validating changes in a rendered code location (for example, OTEL/Elastic integration).
 
+See also: [../observability.md](../observability.md).
+
 ### Render with your working tree
 
 From the dbt-dagsterizer repo root:

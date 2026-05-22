@@ -47,6 +47,7 @@ CLI reference: `../../concepts/cli.md`.
 
 ## Guides
 
-- Usage and architecture: `template_usage.md`
-- Developer workflow (jobs/schedules/sensors via `dagsterization.yml`): `developer_workflow.md`
-- Local development (render + run): `local_development.md`
+- Usage and architecture: [template_usage.md](template_usage.md)
+- Developer workflow (jobs/schedules/sensors via `dagsterization.yml`): [developer_workflow.md](developer_workflow.md)
+- Local development (render + run): [local_development.md](local_development.md)
+- Observability (OpenTelemetry + Elastic APM): [../../observability.md](../../observability.md)

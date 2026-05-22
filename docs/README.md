@@ -8,6 +8,7 @@ This directory contains developer-facing documentation for `dbt-dagsterizer`.
 - Concepts overview: [concepts/overview.md](concepts/overview.md)
 - CLI reference: [concepts/cli.md](concepts/cli.md)
 - Execution model and env propagation: [concepts/execution-model.md](concepts/execution-model.md)
+- Observability (OpenTelemetry + Elastic APM): [observability.md](observability.md)
 
 ## Template docs (Dagster + dbt + StarRocks code location)
 
